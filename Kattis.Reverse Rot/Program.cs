@@ -6,7 +6,13 @@ namespace Kattis.Reverse_Rot
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string hemlig = "ABCDEFGHIJKLMNOPQRSTUVWXYZ_.";
+
+          Console.WriteLine("Kattis Reverse Rot");
+
+            
+
+
         }
     }
 }
