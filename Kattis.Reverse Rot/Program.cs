@@ -6,14 +6,46 @@ namespace Kattis.Reverse_Rot
     {
         static void Main(string[] args)
         {
-            string hemlig = "ABCDEFGHIJKLMNOPQRSTUVWXYZ_.";
-            // Först ska man ta in medelandet och antalet gånger den ska roteras 
-            // sen ska medellandet omvändas abcd till dcba 
-            // efter det ska medelandet framföras x antal gånger i alfabetet 
-            // till exempel blir dcba till edcb med (1) skuts framåt. 
-          Console.WriteLine("Kattis Reverse Rot");
+            var alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ_.";
+            //Läser in rad från användare
+            var input = Console.ReadLine();
 
-            
+            var words = input.Split(' ');
+            var rotation = Convert.ToInt32(words[0]);
+            var message = words[1];
+
+            var result = "";
+
+            for (int i = 0; i < message.Length; i++)
+            {
+                var letter = message.ToCharArray()[i];
+                var indexOfLetter = alphabet.IndexOf(letter);
+                var newIndex = indexOfLetter + rotation;
+                if(newIndex > 27)
+                {
+                    newIndex = newIndex - 28;
+                }
+
+                var newLetter = indexOfLetter + rotation;
+                // samma som ovanför
+                result += alphabet.ToCharArray()[newIndex];
+
+
+            }
+
+            var reverseWord = ReverseString(result);
+
+
+
+            Console.WriteLine(result);
+
+        }
+
+        private static string ReverseString(string result)
+        {
+            var restulArr = result.ToCharArray();
+            Array.Reverse(restulArr);
+            return new string(restulArr);
 
 
         }

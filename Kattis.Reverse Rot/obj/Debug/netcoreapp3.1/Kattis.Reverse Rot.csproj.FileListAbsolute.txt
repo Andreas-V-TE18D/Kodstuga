@@ -1,0 +1,13 @@
+C:\Users\andreas.vins\Documents\GitHub\Kodstuga\Kattis.Reverse Rot\obj\Debug\netcoreapp3.1\Kattis.Reverse Rot.csprojAssemblyReference.cache
+C:\Users\andreas.vins\Documents\GitHub\Kodstuga\Kattis.Reverse Rot\obj\Debug\netcoreapp3.1\Kattis.Reverse Rot.AssemblyInfoInputs.cache
+C:\Users\andreas.vins\Documents\GitHub\Kodstuga\Kattis.Reverse Rot\obj\Debug\netcoreapp3.1\Kattis.Reverse Rot.AssemblyInfo.cs
+C:\Users\andreas.vins\Documents\GitHub\Kodstuga\Kattis.Reverse Rot\obj\Debug\netcoreapp3.1\Kattis.Reverse Rot.csproj.CoreCompileInputs.cache
+C:\Users\andreas.vins\Documents\GitHub\Kodstuga\Kattis.Reverse Rot\bin\Debug\netcoreapp3.1\Kattis.Reverse Rot.exe
+C:\Users\andreas.vins\Documents\GitHub\Kodstuga\Kattis.Reverse Rot\bin\Debug\netcoreapp3.1\Kattis.Reverse Rot.deps.json
+C:\Users\andreas.vins\Documents\GitHub\Kodstuga\Kattis.Reverse Rot\bin\Debug\netcoreapp3.1\Kattis.Reverse Rot.runtimeconfig.json
+C:\Users\andreas.vins\Documents\GitHub\Kodstuga\Kattis.Reverse Rot\bin\Debug\netcoreapp3.1\Kattis.Reverse Rot.runtimeconfig.dev.json
+C:\Users\andreas.vins\Documents\GitHub\Kodstuga\Kattis.Reverse Rot\bin\Debug\netcoreapp3.1\Kattis.Reverse Rot.dll
+C:\Users\andreas.vins\Documents\GitHub\Kodstuga\Kattis.Reverse Rot\bin\Debug\netcoreapp3.1\Kattis.Reverse Rot.pdb
+C:\Users\andreas.vins\Documents\GitHub\Kodstuga\Kattis.Reverse Rot\obj\Debug\netcoreapp3.1\Kattis.Reverse Rot.dll
+C:\Users\andreas.vins\Documents\GitHub\Kodstuga\Kattis.Reverse Rot\obj\Debug\netcoreapp3.1\Kattis.Reverse Rot.pdb
+C:\Users\andreas.vins\Documents\GitHub\Kodstuga\Kattis.Reverse Rot\obj\Debug\netcoreapp3.1\Kattis.Reverse Rot.genruntimeconfig.cache
